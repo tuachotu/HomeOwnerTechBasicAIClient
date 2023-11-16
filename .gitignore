@@ -1,0 +1,27 @@
+# Dependency directories
+/node_modules
+
+# Environment configuration
+/.env
+
+# Compiled binary addons (if any)
+/build/Release
+
+# Logs
+/logs
+
+# Output of 'npm pack'
+/*.tgz
+
+# IDE-specific files and directories
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Operating System files
+.DS_Store
+Thumbs.db
